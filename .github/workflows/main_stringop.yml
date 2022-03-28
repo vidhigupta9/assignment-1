@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'stringOp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2181265E0B1A45BA881E38583B8F8603 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CC1E2850019F4D39983E32D8A8BFA765 }}
           package: .
